@@ -27,7 +27,7 @@ Diabetic Retinopathy is a leading cause of blindness. This project uses a convol
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - Source: [Kaggle Diabetic Retinopathy Detection](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
 - Images: Retinal fundus photographs
