@@ -51,5 +51,5 @@ Diabetic Retinopathy is a leading cause of blindness. This project uses a convol
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Chirag-1020/diabetic_retinopathy_prediction.git
-   cd dr-prediction
+   git clone https://github.com/Chirag-1020/diabetic_retinopathy_predictionn.git
+   cd diabetic_retinopathy_prediction
