@@ -5,7 +5,7 @@ This project uses deep learning to detect **diabetic retinopathy** (DR) from ret
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Dataset](#-dataset)
